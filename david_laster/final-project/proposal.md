@@ -3,7 +3,8 @@
 ###Proposal 
 
 **Name:** Direct Cremation *(Final Name TBD)*
-Introduction: Funeral costs are the largest single expense that most families pay after a house and car. Nearly everyone in the world will have to make arrangements for the loss of a relative or for themselves. Funeral costs are “buried” with superfluous expenses, middlemen, and inefficient local-run companies, although most of the products and services funeral homes offer are performed regionally by large companies. Cremations are growing in popularity instead of burial, but most people still work make arrangements through a funeral home for a very costly markup.
+
+**Introduction:** Funeral costs are the largest single expense that most families pay after a house and car. Nearly everyone in the world will have to make arrangements for the loss of a relative or for themselves. Funeral costs are “buried” with superfluous expenses, middlemen, and inefficient local-run companies, although most of the products and services funeral homes offer are performed regionally by large companies. Cremations are growing in popularity instead of burial, but most people still make arrangements through a funeral home for a very costly markup.
 
 *Direct Cremation* will offer cremations from national providers, saving customers thousands of dollars. The website will allow customers to enter valid order, service, and billing information at their own pace, order extras, and submit orders for processing.
 
